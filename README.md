@@ -116,7 +116,8 @@ color: black;
 
 ```
 ## OUTPUT:
-![Alt text](<Screenshot (100).png>)
+![image](https://github.com/vinnush147/Figma/assets/147139234/adf76d37-b057-45f2-a137-918f9aa88828)
+
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
