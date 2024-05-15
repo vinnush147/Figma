@@ -33,7 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-```
+
 PAGE 1
 ```
 <div style="width: 360px; height: 800px; position: relative; background: white">
@@ -77,7 +77,7 @@ PAGE 3
   <div style="width: 275px; height: 47px; left: 52px; top: 343px; position: absolute; color: white; font-size: 15px; font-family: Kreon; font-weight: 400; word-wrap: break-word">THANK YOU FOR YOUR PARTICIPATION.<br/>      ALL THE BEST ON PERFORMING.</div>
 </div>
 ```
-```
+
 ## OUTPUT:
 ![Screenshot 2024-04-29 190358](https://github.com/lekasri12/Figma/assets/149037427/15952872-1c15-4278-a26a-d991e7b828d5)
 
