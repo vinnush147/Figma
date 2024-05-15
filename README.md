@@ -34,90 +34,56 @@ Figma
 
 ## CODE:
 ```
-Home Page
-<div style="width: 100%; height: 100%; position: relative">
-    <img style="width: 338px; height: 640px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/338x640" />
-    <img style="width: 339px; height: 63px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/339x63" />
-    <img style="width: 204px; height: 204px; left: 76px; top: 134px; position: absolute" src="https://via.placeholder.com/204x204" />
-    <div style="width: 213px; height: 62px; left: 67px; top: 379px; position: absolute; background: #D9D9D9; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset; border: 1px black solid"></div>
-    <div style="width: 206px; height: 55px; left: 74px; top: 496px; position: absolute; background: #D9D9D9; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset"></div>
-    <div style="width: 184px; height: 54px; left: 77px; top: 387px; position: absolute; text-align: center; color: black; font-size: 40px; font-family: Katibeh; font-weight: 400; word-wrap: break-word">login<br/></div>
-    <div style="width: 189px; height: 46px; left: 83px; top: 505px; position: absolute; text-align: center; color: black; font-size: 40px; font-family: Katibeh; font-weight: 400; word-wrap: break-word">Register<br/></div>
+PAGE 1
+```
+<div style="width: 360px; height: 800px; position: relative; background: white">
+  <img style="width: 360px; height: 800px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/360x800" />
+  <img style="width: 360px; height: 70px; left: 0px; top: 0px; position: absolute; border: 1px #2C0CED solid" src="https://via.placeholder.com/360x70" />
+  <div style="width: 295px; height: 84px; left: 32px; top: 97px; position: absolute; color: white; font-size: 48px; font-family: Vampiro One; font-weight: 400; word-wrap: break-word">CELENZA’24</div>
+  <div style="width: 139px; height: 59px; left: 110px; top: 181px; position: absolute; color: white; font-size: 48px; font-family: Podkova; font-weight: 400; word-wrap: break-word">LOGIN</div>
+  <div style="width: 266px; height: 46px; left: 30px; top: 303px; position: absolute; background: white"></div>
+  <div style="width: 175px; height: 33px; left: 36px; top: 269px; position: absolute; color: white; font-size: 24px; font-family: Kreon; font-weight: 400; word-wrap: break-word">USERNAME</div>
+  <div style="width: 264px; height: 46px; left: 32px; top: 418px; position: absolute; background: white"></div>
+  <div style="width: 137px; height: 24px; left: 36px; top: 388px; position: absolute; color: white; font-size: 24px; font-family: Kreon; font-weight: 400; word-wrap: break-word">PASSWORD</div>
+  <div style="width: 180px; height: 51px; left: 94px; top: 534px; position: absolute; background: #268BE9"></div>
+  <div style="width: 164px; height: 39px; left: 144px; top: 546px; position: absolute; color: black; font-size: 24px; font-family: Kreon; font-weight: 400; word-wrap: break-word">LOGIN</div>
+  <div style="width: 121px; height: 19px; left: 34px; top: 470px; position: absolute; color: white; font-size: 15px; font-family: Kreon; font-weight: 400; word-wrap: break-word">FORGOT PASSWORD?</div>
 </div>
-
-// login<br/>
-color: black;
- font-size: 40px;
- font-family: Katibeh;
- font-weight: 400;
- word-wrap: break-word
----
-// Register<br/>
-color: black;
- font-size: 40px;
- font-family: Katibeh;
- font-weight: 400;
- word-wrap: break-word
-
-Events
-<div style="width: 100%; height: 100%; position: relative; background: white">
-    <img style="width: 336px; height: 640px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/336x640" />
-    <img style="width: 339px; height: 63px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/339x63" />
-    <div style="width: 336px; height: 579px; left: 0px; top: 61px; position: absolute"><span style="color: black; font-size: 36px; font-family: Kadwa; font-weight: 400; word-wrap: break-word">    LIST OF EVENTS<br/></span><span style="color: black; font-size: 28px; font-family: Kadwa; font-weight: 400; word-wrap: break-word">        1.Badminton <br/>        2.Cricket<br/>        3.Foot Ball<br/>        4.Hand Ball<br/>        5.Hockey<br/>        6.Volley Ball<br/>        7.HighJump<br/>        8.Athletics</span></div>
+```
+PAGE 2
+```
+<div style="width: 360px; height: 800px; position: relative; background: white">
+  <img style="width: 360px; height: 800px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/360x800" />
+  <img style="width: 360px; height: 70px; left: 0px; top: 0px; position: absolute; border: 1px #2C0CED solid" src="https://via.placeholder.com/360x70" />
+  <div style="width: 295px; height: 84px; left: 32px; top: 97px; position: absolute; color: white; font-size: 48px; font-family: Vampiro One; font-weight: 400; word-wrap: break-word">CELENZA’24</div>
+  <div style="width: 260px; height: 51px; left: 9px; top: 200px; position: absolute; color: white; font-size: 32px; font-family: Kreon; font-weight: 400; word-wrap: break-word">CELENZE EVENTS</div>
+  <div style="width: 15px; height: 16px; left: 28px; top: 279px; position: absolute; background: #D9D9D9; border-radius: 9999px"></div>
+  <div style="width: 15px; height: 15px; left: 28px; top: 328px; position: absolute; background: #D9D9D9; border-radius: 9999px"></div>
+  <div style="width: 217px; height: 29px; left: 52px; top: 276px; position: absolute; color: white; font-size: 20px; font-family: Kreon; font-weight: 400; word-wrap: break-word">MISMATCH DAY</div>
+  <div style="width: 157px; height: 32px; left: 52px; top: 326px; position: absolute; color: white; font-size: 20px; font-family: Kreon; font-weight: 400; word-wrap: break-word">RETRO DAY</div>
+  <div style="width: 15px; height: 15px; left: 28px; top: 373px; position: absolute; background: #D9D9D9; border-radius: 9999px"></div>
+  <div style="width: 184px; height: 19px; left: 52px; top: 369px; position: absolute; color: white; font-size: 20px; font-family: Kreon; font-weight: 400; word-wrap: break-word">HERO HEROIN DAY</div>
+  <div style="width: 15px; height: 15px; left: 28px; top: 413px; position: absolute; background: #D9D9D9; border-radius: 9999px"></div>
+  <div style="width: 161px; height: 24px; left: 52px; top: 407px; position: absolute; color: white; font-size: 20px; font-family: Kreon; font-weight: 400; word-wrap: break-word">FLASH MOB</div>
+  <div style="width: 186px; height: 53px; left: 73px; top: 464px; position: absolute; background: white"></div>
+  <div style="width: 182px; height: 53px; left: 103px; top: 464px; position: absolute; color: black; font-size: 36px; font-family: Kreon; font-weight: 400; word-wrap: break-word">SUBMIT</div>
 </div>
-
-//     LIST OF EVENTS<br/>
-color: black;
- font-size: 36px;
- font-family: Kadwa;
- font-weight: 400;
- word-wrap: break-word
----
-//         1.Badminton <br/>        2.Cricket<br/>        3.Foot Ball<br/>        4.Hand Ball<br/>        5.Hockey<br/>        6.Volley Ball<br/>        7.HighJump<br/>        8.Athletics
-color: black;
- font-size: 28px;
- font-family: Kadwa;
- font-weight: 400;
- word-wrap: break-word
-
-Registration
-<div style="width: 100%; height: 100%; position: relative; background-image: url(https://via.placeholder.com/337x632)">
-    <img style="width: 337px; height: 632px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/337x632" />
-    <img style="width: 339px; height: 63px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/339x63" />
-    <div style="width: 339px; height: 563px; left: 0px; top: 69px; position: absolute; text-align: center; color: black; font-size: 36px; font-family: Katibeh; font-weight: 400; word-wrap: break-word">Event Registration form<br/>NAME<br/><br/>DEPARTMENT<br/><br/>E-MAIL<br/><br/><br/>PHONE NUMBER<br/><br/>EVENT NAME<br/></div>
-    <div style="width: 263px; height: 49px; left: 33px; top: 145px; position: absolute; background: #D9D9D9; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)"></div>
-    <div style="width: 256px; height: 49px; left: 40px; top: 229px; position: absolute; background: #D9D9D9; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)"></div>
-    <div style="width: 256px; height: 50px; left: 41px; top: 331px; position: absolute; background: #D9D9D9; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)"></div>
-    <div style="width: 254px; height: 48px; left: 42px; top: 443px; position: absolute; background: #D9D9D9; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)"></div>
-    <div style="width: 244px; height: 50px; left: 52px; top: 547px; position: absolute; background: #D9D9D9; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)"></div>
+```
+PAGE 3
+```
+<div style="width: 360px; height: 800px; position: relative; background: white">
+  <img style="width: 360px; height: 800px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/360x800" />
+  <img style="width: 360px; height: 70px; left: 0px; top: 0px; position: absolute; border: 1px #2C0CED solid" src="https://via.placeholder.com/360x70" />
+  <div style="width: 275px; height: 47px; left: 52px; top: 343px; position: absolute; color: white; font-size: 15px; font-family: Kreon; font-weight: 400; word-wrap: break-word">THANK YOU FOR YOUR PARTICIPATION.<br/>      ALL THE BEST ON PERFORMING.</div>
 </div>
-
-// Event Registration form<br/>NAME<br/><br/>DEPARTMENT<br/><br/>E-MAIL<br/><br/><br/>PHONE NUMBER<br/><br/>EVENT NAME<br/>
-color: black;
- font-size: 36px;
- font-family: Katibeh;
- font-weight: 400;
- word-wrap: break-word
-
-Last page
-<div style="width: 100%; height: 100%; position: relative; background: white">
-    <img style="width: 331px; height: 640px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/331x640" />
-    <img style="width: 339px; height: 63px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/339x63" />
-    <img style="width: 204px; height: 204px; left: 64px; top: 101px; position: absolute" src="https://via.placeholder.com/204x204" />
-    <div style="width: 327px; height: 303px; left: 4px; top: 337px; position: absolute; text-align: center; color: black; font-size: 32px; font-family: Katibeh; font-weight: 400; word-wrap: break-word">thank you <br/><br/>we are eagerly waiting for your participation in the sports event.<br/>contact us<br/>www.saveetha.ac.in<br/>9734501687</div>
-</div>
-
-// thank you <br/><br/>we are eagerly waiting for your participation in the sports event.<br/>contact us<br/>www.saveetha.ac.in<br/>9734501687
-color: black;
- font-size: 32px;
- font-family: Katibeh;
- font-weight: 400;
- word-wrap: break-word
-
+```
 ```
 ## OUTPUT:
-![image](https://github.com/vinnush147/Figma/assets/147139234/adf76d37-b057-45f2-a137-918f9aa88828)
+![Screenshot 2024-04-29 190358](https://github.com/lekasri12/Figma/assets/149037427/15952872-1c15-4278-a26a-d991e7b828d5)
 
+![Screenshot 2024-04-29 190319](https://github.com/lekasri12/Figma/assets/149037427/4e0e8c94-1a44-4b62-bbe4-8f9815d74ee9)
+
+![Screenshot 2024-04-29 190429](https://github.com/lekasri12/Figma/assets/149037427/7c91c62a-e64c-4aab-bd59-f700104aa0da)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
